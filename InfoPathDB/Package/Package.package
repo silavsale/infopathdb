@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" dslVersion="1.0.0.0" Id="a830b999-6772-4698-9160-096542c807c2" solutionId="a830b999-6772-4698-9160-096542c807c2" resetWebServer="false" name="infopathdb.codeplex.com" xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel">
+  <assemblies>
+    <customAssembly location="Newtonsoft.Json.dll" deploymentTarget="GlobalAssemblyCache" sourcePath="Newtonsoft.Json.dll" />
+  </assemblies>
+  <features>
+    <featureReference itemId="9717944e-3dde-421a-bd2d-728a82a94900" />
+  </features>
+  <projectItems>
+    <projectItemReference itemId="83f96ca1-41f1-4541-b323-3aac4c9ed5a7" />
+    <projectItemReference itemId="d2f11406-17ca-460a-be16-ed60a66b67ba" />
+  </projectItems>
+</package>

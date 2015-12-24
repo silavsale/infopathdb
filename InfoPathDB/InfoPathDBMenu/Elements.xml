@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+  <CustomAction Id="InfoPathDB_MenuLink"
+         GroupId="SiteAdministration"
+         Location="Microsoft.SharePoint.SiteSettings"
+         Sequence="300"
+         Title="InfoPathDB">
+    <UrlAction Url="_layouts/InfoPathDB/InfoPathDB.aspx"/>
+  </CustomAction>
+</Elements>
