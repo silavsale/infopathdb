@@ -3,7 +3,7 @@ Aggregate and query multiple InfoPath XML documents from a SharePoint Form Libra
 
 Have you ever wanted to report directly against InfoPath Form Library data? Have you been frustrated by the limitations of published columns? Have you had trouble when trying to report on repeating table (one-to-many) data? Do you like working with clean XML web services? Then download and check out this SOAP/JSON web service. 
 
-This code will aggregate many source XML documents into a single XML for easy reporting. Completely redesigned XML merge with pure XML text, much faster, less strict validation, and more robust handling of XML input.
+Completely redesigned XML merge with pure text, faster, less strict validation, and easy reporting.
 
 [![](https://raw.githubusercontent.com/spjeff/infopathdb/master/doc/download.png)](https://github.com/spjeff/infopathdb/releases/download/InfoPathDB/infopathdb.codeplex.com.wsp)
 
